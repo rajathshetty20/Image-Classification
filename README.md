@@ -1,4 +1,4 @@
-#Image Classification
+# Image Classification
 
 Binary classification of images of cats and dogs, using a convolutional neural network.
 
